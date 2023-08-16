@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_1280.jpg");
+    background-size: cover;
+    background-position: center;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+   
+  } 
+  
